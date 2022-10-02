@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <h1 class="username">{{ msg }}</h1>
     <BigYellowUsername username="flopez85" />
   </div>
 </template>

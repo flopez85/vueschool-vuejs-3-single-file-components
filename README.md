@@ -1,4 +1,7 @@
-# awesome-app
+# vuejs-3-single-file-components
+
+About the Vue 3 Single File Components course please go to the official website:
+[Vue 3 Single File Components course](https://vueschool.io/courses/vue-3-single-file-components)
 
 ## Project setup
 ```
